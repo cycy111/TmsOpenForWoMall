@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
@@ -13,7 +13,7 @@
   <ItemGroup>
     <PackageReference Include="epplus" Version="4.5.3" />
     <PackageReference Include="JWT" Version="4.0.0" />
-    <PackageReference Include="oracle.manageddataaccess.core" Version="2.18.3" />
+    <PackageReference Include="oracle.manageddataaccess.core" Version="3.21.90" />
   </ItemGroup>
 
   <ItemGroup>
